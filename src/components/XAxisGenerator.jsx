@@ -31,7 +31,7 @@ const XAxisGenerator = ({ height, width, xScale, totalYears, minYear }) => {
     xAxis
       .selectAll(".tick line")
       .attr("transform", (d) => `translate(0,${!(d % 12) ? -16 : 0}) `);
-  }, []);
+  });
 
   return <svg ref={ref} height={height} width={width}></svg>;
 };
