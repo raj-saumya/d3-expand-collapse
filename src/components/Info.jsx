@@ -36,6 +36,7 @@ const Info = () => {
           <a
             href="https://github.com/raj-saumya/d3-expand-collapse"
             target="_blank"
+            rel="noreferrer"
           >
             https://github.com/raj-saumya/d3-expand-collapse
           </a>
