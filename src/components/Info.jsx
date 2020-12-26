@@ -33,8 +33,8 @@ const Info = () => {
         <span>Repository</span>
         <div className="h-x4"></div>
         <label>
-          <a href="https://github.com/raj-saumya">
-            https://github.com/raj-saumya
+          <a href="https://github.com/raj-saumya/d3-expand-collapse">
+            https://github.com/raj-saumya/d3-expand-collapse
           </a>
         </label>
       </div>
