@@ -1,0 +1,33 @@
+main {
+  padding: 16px;
+  height: calc(100vh - 32px);
+  width: calc(100% - 32px);
+  z-index: 1;
+}
+
+.card {
+  border: 1px solid #8a8a8a;
+  border-radius: 4px;
+  background: #fff;
+  padding: 8px;
+  z-index: 2;
+  max-width: 360px;
+}
+
+.h-x {
+  height: 8px;
+}
+
+.h-x4 {
+  height: 2px;
+}
+
+span {
+  font-size: 10px;
+  color: #666666;
+}
+
+label {
+  font-size: 12px;
+  color: #000;
+}
